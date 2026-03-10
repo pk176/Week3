@@ -1,0 +1,25 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk176/Week3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk176/Week3/issues"
+  },
+  "homepage": "https://github.com/pk176/Week3#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
